@@ -1,0 +1,9 @@
+body{
+    background: rgb(213, 217, 224);
+    margin: 50px 80px;
+}
+h1,h3{
+    color: rgb(19, 17, 17);
+    text-align: center;
+    background:rgb(197, 243, 105);
+}
